@@ -5,7 +5,7 @@ function App() {
 
   return (
     <>
-      <div>First Tutorial is begins:0</div>
+      <div className="bg-blue">First Tutorial is begins:0</div>
     </>
   );
 }
